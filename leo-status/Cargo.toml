@@ -11,6 +11,6 @@ serde = { version = "1.0.219", features = ["serde_derive"] }
 serde_json = "1.0.140"
 hidapi = "2.6.3"
 clap = { version = "4.5.31", features = ["derive"] }
-humantime = "2.1.0"
+humantime = "2.2.0"
 tiny_http = "0.12"
 prometheus = "0.13.4"
