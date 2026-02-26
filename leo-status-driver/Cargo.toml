@@ -5,7 +5,7 @@ edition = "2021"
 
 [dependencies]
 thiserror = "2.0.17"
-hidapi = { version = "2.6.4", optional = true }
+hidapi = { version = "2.6.5", optional = true }
 
 [lib]
 
